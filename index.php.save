@@ -1,0 +1,22 @@
+<?php
+//conexión a bbdd
+/*$mysqli = new mysqli("localhost", "root", "toor", "bsis");
+if ($resultado = $mysqli->query($q)) {
+    echo "insertado";
+    $resultado->close();
+}else
+{
+ echo "error ".$mysqli->error;
+}
+*/
+?>
+<html>
+<head>
+        <title>Admin dependencias BSIS</title>
+<style>
+        padding:5px;
+}
+</style>
+</head>
+
+</html>
